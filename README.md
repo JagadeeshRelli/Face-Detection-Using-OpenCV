@@ -1,2 +1,2 @@
 # Face-Detection-Using-OpenCV
-A Face Detection Project developed using OpenCV and Matplotlib in Python
+A python project which detects the faces of people from the image using Haar Cascade Classifier, built using OpenCV and Matplotlib
